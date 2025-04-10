@@ -33,7 +33,7 @@ su postgres
 ```bash
 psql
 ```
->[!Check]
+>[!check]
 >You should see the command line ```postgres=#```.
 4. Create the "contacts" database:
 ```sql
